@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Emacs Autosave
+*~
+
+#undesirables
+巴朗3500 SAT词汇.pdf
+词汇整理Tips.txt
+词汇整理（小托福&托福&SAT）190622.docx
